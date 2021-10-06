@@ -17,5 +17,7 @@
 * Voorbereiding oefeningen : 1 uur.
 * Opvolgen studenten : 1 uur.
 
+## Week 3 - 5 uur
+* Oefeningen 2 php (Toevoegen, verweideren en aanpassen)
 
-# Totale duur : 11,5 uur
+# Totale duur : 16,5 uur
