@@ -1,4 +1,4 @@
-# Logboek Web & Mobile - Steven Ophalvens
+# Logboek Web & Mobile - Bilal Achaffay
 ## Week 1 - 6,5 uur
 * Aanpassingen op Toledo : 2 uur.
 * Voorbereiding lessen : 3,5 uur.
@@ -18,6 +18,16 @@
 * Opvolgen studenten : 1 uur.
 
 ## Week 3 - 5 uur
-* Oefeningen 2 php (Toevoegen, verweideren en aanpassen)
+* Oefeningen 2 php (Toevoegen, verweideren en aanpassen) : 4 uur.
+* Oefening 2 thuis afwerken : 1 uur.
 
-# Totale duur : 16,5 uur
+## Week 4 - 6 uur
+* Installatie Framework7 + oefening geolocatie : 4u30.
+* Oefening afwerken van geolocatie : 1u30.
+
+## Week 5 - 4 uur
+* Projectvoorstelling + schetsen uitbreiden 3 uur
+* Thuis proberen project te starten 1 uur
+
+
+# Totale duur : 27 uur
