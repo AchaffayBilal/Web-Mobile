@@ -29,9 +29,9 @@
 * Projectvoorstelling + schetsen uitbreiden 3 uur
 * Thuis proberen project te starten 1 uur
 
-## Week 6 -  uur
+## Week 6 - 6 uur
 * Android studio & Kotlin
 * Thuis proberen uit te breiden
 
 
-# Totale duur : 27 uur
+# Totale duur : 33 uur
