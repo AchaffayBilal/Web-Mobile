@@ -33,5 +33,7 @@
 * Android studio & Kotlin
 * Thuis proberen uit te breiden
 
+## Week 7 - 5 uur
+* Android studio & Kotlin
 
-# Totale duur : 33 uur
+# Totale duur : 38 uur
