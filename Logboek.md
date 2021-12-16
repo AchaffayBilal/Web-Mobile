@@ -36,4 +36,25 @@
 ## Week 7 - 5 uur
 * Android studio & Kotlin
 
-# Totale duur : 38 uur
+## Week 8 - 4 uur
+* Android studio & Kotlin
+
+## Week 9 - 4 uur
+* Werken aan project javascript
+* Werken aan project cordova
+
+**## Week 10 - 4 uur
+* Werken aan php
+* Implementeren van php in kotlin
+
+## Week 11 - 4 uur
+* Gamplay beginnen van spel (1ste versie)
+* player naar links en rechts laten bewegen
+
+## Week 12 - 4 uur
+* Werken aan project javascript
+* Vuilbakken implementeren om de speler tegen te houden
+* achtergrond laten bewegen
+* Responsive op alle apparaten
+
+# Totale duur : 58 uur
